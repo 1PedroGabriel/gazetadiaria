@@ -96,6 +96,7 @@ main > a > div > h1, p {
     font-size: small;
     display: block;
     color: black;
+    font-style: normal;
 }
 
 .mnot > section {
